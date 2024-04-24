@@ -7,10 +7,10 @@ rectory #!/bin/bash
 # On your terminal, input all the commands you have used to create the following:
 
 # 1. How would you create 5 directories? Feel free to use any name for your directories.
-mk dir1 dir2 dir3 dir4 dir5 
+mkdir dir1 dir2 dir3 dir4 dir5 
 
 # 2. How would you verify the creation of all 5 directories?
-using the ls command in home directory
+ls 
 # 3. In each directory, how would you create 5 .txt files and write "I love data" into each within the directories?
 echo "I love data" > dir1/text1.txt
 echo "I love data" > dir2/text1.txt
