@@ -29,9 +29,15 @@ echo -n " and Machine Learning" >> dir1/text1.txt
 # 6. How would you verify that the text was indeed appended to the existing file?
 code dir1/text1.txt
 # 7. How would you delete all files except for the one with the appended text?
+go to each directory individually and type apart from dir1
+rm * 
 
 # 8. How would you navigate back to the parent directory containing all the directories?
+ cd ~
 
 # 9. How would you remove each directory along with its contents?
+ rm -r *
 
 # 10. How would you verify that all directories and files have been deleted?
+
+run ls in the root folder 
