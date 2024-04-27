@@ -15,7 +15,8 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 3. Submit your answer to _!
 
 **What is the secret password?**
-<!-- Your answer here -->
+Paper Rings season_10 Meets Legacies Lucky Stars
+
 
 |Criteria|Pass|Fail|
 |---|---|---|
